@@ -185,10 +185,10 @@ These anonymized PCA components likely capture **hidden timing or behavioral irr
 
 ## ⚙️ Assumptions & Caveats
 
-* **Synthetic User IDs:** `card_id` simulated for grouping.
-* **Timestamps:** Derived from base date `2013-01-01` + time offset.
-* **Fraud Rate (16.7%)** = oversampled subset (actual ≈ **0.17%**).
-* **Features (`V1–V28`)** = anonymized PCA variables.
+* **Synthetic User IDs:** `card_id` simulated for grouping.  
+* **Timestamps:** Derived from base date `2013-01-01` + time offset.  
+* **Fraud Rate (16.7%)** = oversampled subset (actual ≈ **0.17%**).  
+* **Features (`V1–V28`)** = anonymized PCA variables.  
 
 ---
 
